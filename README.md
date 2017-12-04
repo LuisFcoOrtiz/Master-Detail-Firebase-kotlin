@@ -8,3 +8,5 @@ Aplicación Android con base Kotlin y patrón Master Detail. Muestra la lista de
 * Muestra con el patron Master Detail cada uno de los Items recogidos de la base de datos
 * Cada uno de los items tiene un apartado de detalle el cual muestra mas detalles sobre cada uno de los items 
 * Muestra la imagen de cada uno de los smartphones mediante URL las imagenes no estan fisicas en el dispositivo
+
+![screenshot_20171204-161255](https://user-images.githubusercontent.com/8844134/33560076-014f79be-d90f-11e7-8fc0-2f01b26c0181.png)
